@@ -17,11 +17,11 @@ ul {
 }
 
 .site-header .navbar-nav .nav-link {
-  color: #cbd5db;
+  color: #0f0f0f;
 }
 
 .site-header .navbar-nav .nav-link:hover {
-  color: #ffffff;
+  color: #fffff;
 }
 
 .site-header .navbar-nav .nav-link.active {
@@ -29,9 +29,9 @@ ul {
 }
 
 .content-section {
-  background: #ffffff;
+  background: #ffff;
   padding: 10px 20px;
-  border: 1px solid #dddddd;
+  border: 1px solid #400ff1;
   border-radius: 3px;
   margin-bottom: 20px;
 }
@@ -41,7 +41,7 @@ ul {
 }
 
 a.article-title:hover {
-  color: #428bca;
+  color: #c2b11959;
   text-decoration: none;
 }
 
