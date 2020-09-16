@@ -19,13 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7c86761-6b69-46e7-833c-517dd0778b6a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blog/static/blog/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/templates/blog/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/templates/blog/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/templates/blog/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/urls.py" afterDir="false" />
-    </list>
+    <list default="true" id="a7c86761-6b69-46e7-833c-517dd0778b6a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +34,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1eLjBRYRRU2WATdHQvsfGFcaVeA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -55,7 +49,6 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -80,12 +73,17 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="442" y="187" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594114906799">
       <screen x="0" y="42" width="1366" height="686" />
     </state>
     <state x="442" y="187" key="#com.intellij.fileTypes.FileTypeChooser/0.42.1366.686@0.42.1366.686" timestamp="1594114906799" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1599165831354">
+      <screen x="0" y="42" width="1366" height="645" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.42.1366.645@0.42.1366.645" timestamp="1599165831354" />
     <state x="492" y="299" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594114614856">
       <screen x="0" y="42" width="1366" height="686" />
     </state>
